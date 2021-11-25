@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 [![AFEICHINA's github stats](https://github-readme-stats.vercel.app/api?username=AFEICHINA&show_icons=true&theme=radical)](https://github.com/AFEICHINA/github-readme-stats)
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AFEICHINA&show_icons=true">
+
 - 🔭 机器人行业，学习 LIDAR SLAM,多传感器融合中... 
 - 🌱 使用C++,Python
 - 👯 会点点硬件
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AFEICHINA&show_icons=true">
+
