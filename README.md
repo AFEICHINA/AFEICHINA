@@ -1,4 +1,4 @@
-
+### About me 👋
 
 <!--
 **AFEICHINA/AFEICHINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AFEICHINA&show_icons=true">
-### About me 👋
+
 
 - 🔭 机器人行业，学习 LIDAR SLAM,多传感器融合中... 
 - 🌱 使用C++,Python
