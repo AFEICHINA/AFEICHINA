@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AFEICHINA&show_icons=true">
 ### About me 👋
+
 - 🔭 机器人行业，学习 LIDAR SLAM,多传感器融合中... 
 - 🌱 使用C++,Python
 - 😄 电子设计爱好者，会点硬件。
