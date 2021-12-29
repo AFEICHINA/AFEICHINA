@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 - 🔭 机器人行业，学习 LIDAR SLAM,多传感器融合中... 
 - 🌱 使用C++,Python
-- 😄 电子设计爱好者，热爱硬件。
+- 😄 电子设计爱好者
 - 📫 联系邮箱: 80672451@qq.com
